@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm Miko Tancinco
+
 **Software Engineer | Mobile Application Specialist | AI-Assisted Systems Developer**
 Fourth-Year B.S. Computer Engineering, STI College Ortigas-Cainta
 
