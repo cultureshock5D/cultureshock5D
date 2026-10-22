@@ -22,7 +22,7 @@ Freelance Software Developer | Production-Sponsored Deployment
 
 **Automated Reservation & Access Control Platform**
 
-Senior Capstone Software Lead | STI College Ortigas-Cainta
+Junior Capstone Developer | STI College Ortigas-Cainta
 
   Built an end-to-end facility reservation engine using Flutter, Supabase, and PostgreSQL with role-based access management.
 
